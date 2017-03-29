@@ -1,0 +1,2 @@
+nodegroups:
+ check-zone: L@dummy1.ie.intuit.net,minion1,oprdsvpix608.corp.intuit.net,

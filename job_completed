@@ -1,0 +1,21 @@
+20170329160757410716:
+    ----------
+    Arguments:
+    Function:
+        test.ping
+    Minions:
+        - minion1
+    Result:
+        ----------
+        minion1:
+            ----------
+            return:
+                True
+    StartTime:
+        2017, Mar 29 16:07:57.410716
+    Target:
+        - L@dummy1.ie.intuit.net,minion1,oprdsvpix608.corp.intuit.net,
+    Target-type:
+        compound
+    User:
+        sudo_vagrant
