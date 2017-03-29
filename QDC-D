@@ -1,0 +1,16 @@
+{
+  "result": [
+    {
+      "u_hosting_segment": "QDC-D",
+      "name": "minion1.corp.intuit.net"
+    },
+    {
+      "u_hosting_segment": "QDC-D",
+      "name": "dummy1.ie.intuit.net-to-be-decommed"
+    },
+    {
+      "u_hosting_segment": "QDC-D",
+      "name": "oprdsvpix608.corp.intuit.net"
+    }
+  ]
+}
