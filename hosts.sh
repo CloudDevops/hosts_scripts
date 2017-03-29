@@ -21,8 +21,20 @@ function reformat-fqdn {
 	rm out1 ieMaster* corpMaster* ie.* corp.* ie-* corp-*
 }
 
+function vagrant_salt_master {
+	sed -i 's/minion1.corp.intuit.net/minion1/g' reformatfqdn 
+}
+
+
+
+
+
 #-----code
 
 snow_data_transform
 
 reformat-fqdn
+
+vagrant_salt_master
+
+
